@@ -349,3 +349,4 @@ P3 模式要求已按上节生成显式插件资源；没有构建时检查会�
 原版说明保存在 [UPSTREAM.md](docs/UPSTREAM.md)。
 
 本轮验证记录见 [VERIFICATION.md](docs/VERIFICATION.md)。
+
